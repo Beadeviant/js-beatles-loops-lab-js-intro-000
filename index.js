@@ -23,8 +23,10 @@ while (i < array.length) {
     return facts;
   }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(number) {
+var yugg = [];
 do {
-
-} while (true);
+yugg.push("I love the Beatles!");
+} while (number < 15);
+number++;
 }
