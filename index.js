@@ -22,3 +22,7 @@ while (i < array.length) {
 }
     return facts;
   }
+
+function iLoveTheBeatles() {
+  
+}
