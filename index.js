@@ -26,8 +26,8 @@ while (i < array.length) {
     var beatles = [];
     do {
       beatles.push("I love the Beatles!")
-
+number++;
     } while (number < 15);
-    number++;
+    
     beatles.push("I love the Beatles!")
   }
