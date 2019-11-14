@@ -16,7 +16,7 @@ var facts = [];
   var plcHldr = array[i];
 while (i < array.length) {
 i++;
-  facts.push(`${plcHldr} !!!`);
+  facts.push(`${plcHldr}!!!`);
 }
     return facts;
   }
