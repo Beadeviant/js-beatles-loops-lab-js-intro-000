@@ -29,5 +29,5 @@ while (i < array.length) {
 number++;
     } while (number < 15);
 
-    beatles.push("I love the Beatles!")
+    return beatles;
   }
