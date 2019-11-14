@@ -28,6 +28,6 @@ while (i < array.length) {
       beatles.push("I love the Beatles!")
 number++;
     } while (number < 15);
-    
+
     beatles.push("I love the Beatles!")
   }
