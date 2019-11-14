@@ -21,4 +21,3 @@ while (i < array.length) {
 }
     return facts;
   }
-
