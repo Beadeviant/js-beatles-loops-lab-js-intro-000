@@ -21,3 +21,13 @@ while (i < array.length) {
 }
     return facts;
   }
+
+  function iLoveTheBeatles(number){
+    var beatles = [];
+    do {
+      beatles.push("I love the Beatles!")
+  
+    } while (number < 15);
+    number++;
+    beatles.push("I love the Beatles!")
+  }
