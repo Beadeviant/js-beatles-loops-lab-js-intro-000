@@ -12,10 +12,10 @@ return emptyArray
 function johnLennonFacts(array) {
 var facts = [];
   let i = 0;
-
+i++;
   var plcHldr = array[i];
 while (i < array.length) {
-i++;
+
   facts.push(`${plcHldr}!!!`);
 }
     return facts;
