@@ -13,7 +13,7 @@ function johnLennonFacts(array) {
 var facts = [];
   var i = 0;
 
-  
+
 while (i < array.length) {
   var plcHldr = array[i];
   i++;
