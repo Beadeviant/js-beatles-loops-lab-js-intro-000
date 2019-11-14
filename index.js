@@ -11,22 +11,12 @@ return emptyArray
 
 function johnLennonFacts(array) {
 var facts = [];
-
-  facts.push(array);
   let i = 0;
-  i++;
+  
   var plcHldr = array[i];
 while (i < array.length) {
-
+i++;
   facts.push(`${plcHldr} !!!`);
 }
     return facts;
   }
-
-function iLoveTheBeatles(number) {
-var yugg = [];
-do {
-yugg.push("I love the Beatles!");
-} while (number < 15);
-number++;
-}
